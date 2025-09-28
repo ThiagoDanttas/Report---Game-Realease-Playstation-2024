@@ -9,6 +9,9 @@ Este projeto foi desenvolvido a partir de dados coletados na plataforma Kaggle.
 - Utilização das bibliotecas Pandas e Matplotlib
 
 - Ambiente de desenvolvimento: Google Colab
+  
+📈 Visualização dos dados
+- Ambiente de Visualização de Gráfico: Power BI
 -------------------------------
 📊 Sobre o Projeto
 
